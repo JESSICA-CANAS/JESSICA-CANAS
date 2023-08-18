@@ -1,4 +1,4 @@
-Git to Know Me: A Fun and Quirky Journey
+##Git to Know Me: A Fun and Quirky Journey##
 
 ## Hey there, welcome to my Git Wonderland! 🌟
 
